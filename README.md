@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm Kpop and Anime enthusiast
 
 ### Tech Stack
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://skillicons.dev/icons?i=kotlin&theme=light" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   
   <br>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/zainalbani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainalbani&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainalbani"/>
 </a>
 </p>
 
