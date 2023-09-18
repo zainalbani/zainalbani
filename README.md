@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/zainalbani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zainalbani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainalbani&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainalbani&hide_progress=true"/>
 </a>
 </p>
 
