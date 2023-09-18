@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm Kpop and Anime enthusiast
 
 ### Tech Stack
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   
   <br>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/zainalbani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zainalbani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zainalbani&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainalbani&show_icons=true&theme=radical"/>
 </a>
 </p>
 
